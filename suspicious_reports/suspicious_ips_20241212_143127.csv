@@ -1,0 +1,12 @@
+IP Address,Country,City,ISP,Organization,AS Number,DNS Name,Related Flows,Flow IDs
+85.226.206.127,Sweden,Eskilstuna,Telenor Sverige AB,Bredbandsbolaget,AS2119 Telenor Norge AS,c-85-226-206-127.bbcust.telenor.se,1,192.168.100.111:29930-85.226.206.127:54853-UDP
+118.168.160.94,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,118-168-160-94.dynamic-ip.hinet.net,1,118.168.160.94:14645-192.168.100.111:29930-UDP
+86.57.150.211,Belarus,Minsk,Republican Unitary Telecommunication Enterprise Beltelecom,Kreativfuds Minsk,AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,mm-211-150-57-86.static.mgts.by,1,192.168.100.111:29930-86.57.150.211:49160-UDP
+187.181.95.235,Brazil,Uberaba,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,AS28573 Claro NXT Telecomunicacoes Ltda,bbb55feb.virtua.com.br,1,187.181.95.235:19906-192.168.100.111:29930-UDP
+84.230.205.84,Finland,Oulu,Elisa Oyj,Elisa Oyj,AS719 Elisa Oyj,84-230-205-84.elisa-mobile.fi,1,192.168.100.111:29930-84.230.205.84:8999-UDP
+80.117.199.166,Italy,Florence,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,AS3269 Telecom Italia S.p.A.,host-80-117-199-166.retail.telecomitalia.it,1,192.168.100.111:29930-80.117.199.166:51413-UDP
+147.251.48.140,Czechia,Brno,CESNET z.s.p.o.,Masarykova univerzita - Ustav vypocetni techniky,AS2852 CESNET z.s.p.o.,pyrrha.fi.muni.cz,1,147.251.48.140:123-192.168.100.111:34314-UDP
+46.166.137.72,The Netherlands,Roosendaal,NFOrce Entertainment BV,NForce Entertainment B.V,AS43350 NForce Entertainment B.V.,No DNS record,1,192.168.100.111:29930-46.166.137.72:62236-UDP
+83.31.39.195,Poland,Lublin,Orange Polska Spolka Akcyjna,Orange Polska S.A.,AS5617 Orange Polska Spolka Akcyjna,83.31.39.195.ipv4.supernova.orange.pl,1,192.168.100.111:29930-83.31.39.195:26367-UDP
+176.31.181.176,France,Roubaix,OVH ISP,OVH,AS16276 OVH SAS,ns3324557.ip-176-31-181.eu,1,176.31.181.176:56969-192.168.100.111:29930-UDP
+188.244.208.227,Russia,Yuzhno-Sakhalinsk,TTK-Retail,,"AS15774 Limited Liability Company ""TTK-Svyaz""",188.244.208.227.static.sakhttk.ru,1,188.244.208.227:28240-192.168.100.111:29930-UDP

@@ -1,0 +1,155 @@
+Starting
+venv activated
+Performing cross-validation for KNN
+Performing cross-validation for Naive Bayes
+Performing cross-validation for Logistic Regression
+Performing cross-validation for Decision Tree
+Performing cross-validation for Random Forest
+Performing cross-validation for Gradient Boosting
+Performing cross-validation for K-Means
+Plotting cross-validation results...
+
+Detailed Cross-validation Results:
+
+KNN:
+Accuracy:
+  Train: 0.990 (±0.003)
+  Test:  0.870 (±0.112)
+Precision:
+  Train: 0.990 (±0.004)
+  Test:  0.947 (±0.030)
+Recall:
+  Train: 0.990 (±0.003)
+  Test:  0.870 (±0.112)
+F1:
+  Train: 0.990 (±0.004)
+  Test:  0.887 (±0.088)
+
+Naive Bayes:
+Accuracy:
+  Train: 0.836 (±0.065)
+  Test:  0.811 (±0.078)
+Precision:
+  Train: 0.905 (±0.011)
+  Test:  0.869 (±0.049)
+Recall:
+  Train: 0.836 (±0.065)
+  Test:  0.811 (±0.078)
+F1:
+  Train: 0.849 (±0.038)
+  Test:  0.819 (±0.043)
+
+Logistic Regression:
+Accuracy:
+  Train: 0.914 (±0.007)
+  Test:  0.912 (±0.029)
+Precision:
+  Train: 0.915 (±0.008)
+  Test:  0.875 (±0.073)
+Recall:
+  Train: 0.914 (±0.007)
+  Test:  0.912 (±0.029)
+F1:
+  Train: 0.890 (±0.013)
+  Test:  0.881 (±0.048)
+
+Decision Tree:
+Accuracy:
+  Train: 1.000 (±0.000)
+  Test:  0.979 (±0.026)
+Precision:
+  Train: 1.000 (±0.000)
+  Test:  0.981 (±0.024)
+Recall:
+  Train: 1.000 (±0.000)
+  Test:  0.979 (±0.026)
+F1:
+  Train: 1.000 (±0.000)
+  Test:  0.976 (±0.032)
+
+Random Forest:
+Accuracy:
+  Train: 1.000 (±0.000)
+  Test:  0.981 (±0.028)
+Precision:
+  Train: 1.000 (±0.000)
+  Test:  0.983 (±0.026)
+Recall:
+  Train: 1.000 (±0.000)
+  Test:  0.981 (±0.028)
+F1:
+  Train: 1.000 (±0.000)
+  Test:  0.978 (±0.035)
+
+Gradient Boosting:
+Accuracy:
+  Train: 1.000 (±0.000)
+  Test:  0.981 (±0.027)
+Precision:
+  Train: 1.000 (±0.000)
+  Test:  0.983 (±0.025)
+Recall:
+  Train: 1.000 (±0.000)
+  Test:  0.981 (±0.027)
+F1:
+  Train: 1.000 (±0.000)
+  Test:  0.978 (±0.033)
+
+K-Means:
+Accuracy:
+  Train: 0.752 (±0.026)
+  Test:  0.752 (±0.102)
+Precision:
+  Train: 0.859 (±0.070)
+  Test:  0.911 (±0.178)
+Recall:
+  Train: 0.752 (±0.026)
+  Test:  0.752 (±0.102)
+F1:
+  Train: 0.795 (±0.048)
+  Test:  0.823 (±0.136)
+Training with KNN
+Training with Naive Bayes
+Training with Logistic Regression
+Training with Decision Tree
+Training with Random Forest
+Training with Gradient Boosting
+Training with K-Means
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.989270   0.989208  0.989270  0.989230
+1          Naive Bayes  0.912511   0.912524  0.912511  0.889283
+2  Logistic Regression  0.913758   0.914541  0.913758  0.891190
+3        Decision Tree  0.998454   0.998454  0.998454  0.998454
+4        Random Forest  0.998792   0.998791  0.998792  0.998791
+5    Gradient Boosting  0.998792   0.998791  0.998792  0.998791
+6              K-Means  0.753602   0.853850  0.753602  0.790907
+
+Model Performance on IoT23 Dataset as target:
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.534002   0.846368  0.534002  0.569974
+1          Naive Bayes  0.179058   0.183858  0.179058  0.064326
+2  Logistic Regression  0.189349   0.319584  0.189349  0.065002
+3        Decision Tree  0.290713   0.768676  0.290713  0.257640
+4        Random Forest  0.774119   0.893621  0.774119  0.797616
+5    Gradient Boosting  0.661178   0.876012  0.661178  0.695924
+6              K-Means  0.563588   0.808556  0.563588  0.605450
+
+Model Performance on CICIoT Dataset as target:
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.484392   0.464580  0.484392  0.466541
+1          Naive Bayes  0.443959   0.494824  0.443959  0.305321
+2  Logistic Regression  0.435756   0.432066  0.435756  0.293466
+3        Decision Tree  0.430045   0.432145  0.430045  0.430987
+4        Random Forest  0.415737   0.419571  0.415737  0.417288
+5    Gradient Boosting  0.426873   0.432582  0.426873  0.428795
+6              K-Means  0.577136   0.586589  0.577136  0.578481
+
+Model Performance on CICIoT Dataset as target:
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.487145   0.470012  0.487145  0.474091
+1          Naive Bayes  0.429940   0.486575  0.429940  0.290335
+2  Logistic Regression  0.422462   0.426826  0.422462  0.279250
+3        Decision Tree  0.420815   0.428975  0.420815  0.423686
+4        Random Forest  0.435877   0.442059  0.435877  0.438279
+5    Gradient Boosting  0.440924   0.450225  0.440924  0.443834
+6              K-Means  0.576541   0.590598  0.576541  0.578599

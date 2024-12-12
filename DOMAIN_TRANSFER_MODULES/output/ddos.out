@@ -1,0 +1,177 @@
+Starting
+venv activated
+Fetching source dataset...
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Flood11.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Flood12.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Fragmentation10.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Fragmentation.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood11.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood15.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ACK_Fragmentation2.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ACK_Fragmentation4.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign/benign_traffic.pcap_Flow.csv
+DoS DataFrame size: (408161, 77)
+Benign DataFrame size: (408161, 77)
+Performing cross-validation for KNN
+Performing cross-validation for Naive Bayes
+Performing cross-validation for Logistic Regression
+Performing cross-validation for Decision Tree
+Performing cross-validation for Random Forest
+Performing cross-validation for Gradient Boosting
+Performing cross-validation for K-Means
+Plotting cross-validation results...
+
+Detailed Cross-validation Results:
+
+KNN:
+Accuracy:
+  Train: 0.994 (±0.000)
+  Test:  0.994 (±0.000)
+Precision:
+  Train: 0.994 (±0.000)
+  Test:  0.994 (±0.000)
+Recall:
+  Train: 0.994 (±0.000)
+  Test:  0.994 (±0.000)
+F1:
+  Train: 0.994 (±0.000)
+  Test:  0.994 (±0.000)
+
+Naive Bayes:
+Accuracy:
+  Train: 0.899 (±0.000)
+  Test:  0.899 (±0.001)
+Precision:
+  Train: 0.905 (±0.000)
+  Test:  0.905 (±0.001)
+Recall:
+  Train: 0.899 (±0.000)
+  Test:  0.899 (±0.001)
+F1:
+  Train: 0.899 (±0.000)
+  Test:  0.899 (±0.001)
+
+Logistic Regression:
+Accuracy:
+  Train: 0.787 (±0.023)
+  Test:  0.787 (±0.023)
+Precision:
+  Train: 0.800 (±0.033)
+  Test:  0.800 (±0.032)
+Recall:
+  Train: 0.787 (±0.023)
+  Test:  0.787 (±0.023)
+F1:
+  Train: 0.785 (±0.023)
+  Test:  0.785 (±0.022)
+
+Decision Tree:
+Accuracy:
+  Train: 1.000 (±0.000)
+  Test:  0.995 (±0.000)
+Precision:
+  Train: 1.000 (±0.000)
+  Test:  0.995 (±0.000)
+Recall:
+  Train: 1.000 (±0.000)
+  Test:  0.995 (±0.000)
+F1:
+  Train: 1.000 (±0.000)
+  Test:  0.995 (±0.000)
+
+Random Forest:
+Accuracy:
+  Train: 0.999 (±0.000)
+  Test:  0.996 (±0.000)
+Precision:
+  Train: 0.999 (±0.000)
+  Test:  0.996 (±0.000)
+Recall:
+  Train: 0.999 (±0.000)
+  Test:  0.996 (±0.000)
+F1:
+  Train: 0.999 (±0.000)
+  Test:  0.996 (±0.000)
+
+Gradient Boosting:
+Accuracy:
+  Train: 0.998 (±0.000)
+  Test:  0.997 (±0.000)
+Precision:
+  Train: 0.998 (±0.000)
+  Test:  0.997 (±0.000)
+Recall:
+  Train: 0.998 (±0.000)
+  Test:  0.997 (±0.000)
+F1:
+  Train: 0.998 (±0.000)
+  Test:  0.997 (±0.000)
+
+K-Means:
+Accuracy:
+  Train: 0.525 (±0.123)
+  Test:  0.525 (±0.123)
+Precision:
+  Train: 0.532 (±0.156)
+  Test:  0.532 (±0.156)
+Recall:
+  Train: 0.525 (±0.123)
+  Test:  0.525 (±0.123)
+F1:
+  Train: 0.498 (±0.130)
+  Test:  0.498 (±0.130)
+Training with KNN
+Training with Naive Bayes
+Training with Logistic Regression
+Training with Decision Tree
+Training with Random Forest
+Training with Gradient Boosting
+Training with K-Means
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.993838   0.993866  0.993838  0.993838
+1          Naive Bayes  0.900248   0.905773  0.900248  0.899902
+2  Logistic Regression  0.775163   0.783589  0.775163  0.773501
+3        Decision Tree  0.995572   0.995572  0.995572  0.995572
+4        Random Forest  0.996392   0.996395  0.996392  0.996392
+5    Gradient Boosting  0.996913   0.996922  0.996913  0.996913
+6              K-Means  0.373797   0.339063  0.373797  0.338222
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_4.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_8.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_3.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_7.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_5.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_1.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_10.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_6.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_2.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_9.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_1.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_5.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_9.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_6.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_2.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_4.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_10.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_3.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_7.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_8.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData4.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData3.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData1.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData9.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData6.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData5.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData10.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData2.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData8.pcap_Flow.csv
+Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData7.pcap_Flow.csv
+DoS DataFrame size: (50000, 77)
+Benign DataFrame size: (50000, 77)
+                 Model  Accuracy  Precision   Recall        F1
+0                  KNN   0.59935   0.603567  0.59935  0.594220
+1          Naive Bayes   0.49785   0.671402  0.49785  0.333583
+2  Logistic Regression   0.51125   0.608960  0.51125  0.377520
+3        Decision Tree   0.60315   0.608314  0.60315  0.597328
+4        Random Forest   0.59965   0.603874  0.59965  0.594534
+5    Gradient Boosting   0.60235   0.607029  0.60235  0.596951
+6              K-Means   0.40090   0.396416  0.40090  0.393278

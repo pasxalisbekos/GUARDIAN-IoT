@@ -1,0 +1,51 @@
+IP Address,Country,City,ISP,Organization,AS Number,DNS Name,Related Flows,Flow IDs
+63.1.67.109,United States,Boston,Verizon Business,Verizon Business,AS701 Verizon Business,No DNS record,1,192.168.100.111:23284-63.1.67.109:81-TCP
+25.144.99.77,United Kingdom,London,UK Ministry of Defence,UK Ministry of Defence,,No DNS record,1,192.168.100.111:44023-25.144.99.77:81-TCP
+129.107.52.199,United States,Arlington,University of Texas at Arlington,University of Texas at Arlington,AS18515 University of Texas at Arlington,No DNS record,1,129.107.52.199:81-192.168.100.111:55415-TCP
+84.245.209.196,Latvia,Riga,Livas Net SIA,,AS34001 SIA LIVAS NET,customer.245.209.196.livas.lv,1,192.168.100.111:45450-84.245.209.196:81-TCP
+196.52.16.69,Mauritius,Ebene CyberCity,African Network Information Center - (AfriNIC) Ltd,,,No DNS record,1,192.168.100.111:29930-196.52.16.69:55918-UDP
+194.57.43.59,France,Paris,Renater,U Parissud Orsay,AS2200 Renater,No DNS record,1,192.168.100.111:39032-194.57.43.59:81-TCP
+188.244.208.227,Russia,Yuzhno-Sakhalinsk,TTK-Retail,,"AS15774 Limited Liability Company ""TTK-Svyaz""",188.244.208.227.static.sakhttk.ru,1,188.244.208.227:28240-192.168.100.111:29930-UDP
+145.113.208.234,The Netherlands,Utrecht,SURFNET-BLOCKB,SURFnet bv,,SURFnet-NL.IPv4.PTR.145.113.x.INVALID,1,145.113.208.234:81-192.168.100.111:65091-TCP
+175.42.225.209,China,Putian,China Unicom Fujian Province Network,,AS4837 CHINA UNICOM China169 Backbone,No DNS record,1,175.42.225.209:6339-192.168.100.111:29930-UDP
+63.179.42.191,Germany,Frankfurt am Main,Amazon.com,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-63-179-42-191.eu-central-1.compute.amazonaws.com,1,192.168.100.111:64511-63.179.42.191:81-TCP
+74.66.20.16,United States,New York,Charter Communications,Spectrum,AS12271 Charter Communications Inc,syn-074-066-020-016.res.spectrum.com,1,192.168.100.111:29930-74.66.20.16:1024-UDP
+162.219.57.140,United States,Van Nuys,"LT-WR, LLC","LT-WR, LLC","AS394862 LT-WR, LLC",No DNS record,1,162.219.57.140:81-192.168.100.111:1556-TCP
+94.123.1.18,Turkey,Bahçelievler,Andromeda TV Digital Platform Isletmeciligi A.S.,DOL,AS12978 ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.,No DNS record,1,192.168.100.111:58075-94.123.1.18:81-TCP
+173.84.165.12,United States,Powell,Frontier Communications Solutions,BDSL Frontier Communications Cookville TN,"AS5650 Frontier Communications of America, Inc.",static-173-84-165-12.car01.ckvl.tn.frontiernet.net,1,173.84.165.12:81-192.168.100.111:55480-TCP
+86.57.150.211,Belarus,Minsk,Republican Unitary Telecommunication Enterprise Beltelecom,Kreativfuds Minsk,AS6697 Republican Unitary Telecommunication Enterprise Beltelecom,mm-211-150-57-86.static.mgts.by,1,192.168.100.111:29930-86.57.150.211:49160-UDP
+83.31.39.195,Poland,Lublin,Orange Polska Spolka Akcyjna,Orange Polska S.A.,AS5617 Orange Polska Spolka Akcyjna,83.31.39.195.ipv4.supernova.orange.pl,1,192.168.100.111:29930-83.31.39.195:26367-UDP
+84.230.205.84,Finland,Oulu,Elisa Oyj,Elisa Oyj,AS719 Elisa Oyj,84-230-205-84.elisa-mobile.fi,1,192.168.100.111:29930-84.230.205.84:8999-UDP
+147.231.100.5,Czechia,Prague,CESNET z.s.p.o.,Czech Academy of Sciences,AS2852 CESNET z.s.p.o.,lx.ujf.cas.cz,1,147.231.100.5:123-192.168.100.111:53480-UDP
+211.199.48.120,South Korea,Suseong-gu,Korea Telecom,Kornet,AS4766 Korea Telecom,No DNS record,1,192.168.100.111:29930-211.199.48.120:41016-UDP
+178.34.158.90,Russia,Temryuk,Miranda-Media B2C NAT # 3,Miranda-Media Ltd,AS201776 Miranda-Media Ltd,localhost,1,178.34.158.90:32946-192.168.100.111:29930-UDP
+167.10.15.29,United States,Sacramento,California Department of Justice,California Department of Justice,AS46520 California Department of Justice,No DNS record,1,167.10.15.29:81-192.168.100.111:28088-TCP
+161.0.158.90,Trinidad and Tobago,Port of Spain,Digicel Trinidad and Tobago Ltd.,Digicel Trinidad and Tobago Ltd,AS27800 Digicel Trinidad and Tobago Ltd.,No DNS record,1,161.0.158.90:13883-192.168.100.111:29930-UDP
+187.181.95.235,Brazil,Uberaba,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,AS28573 Claro NXT Telecomunicacoes Ltda,bbb55feb.virtua.com.br,1,187.181.95.235:19906-192.168.100.111:29930-UDP
+213.136.79.7,Germany,Nuremberg,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,dil101-177.fi.nor.wanidarum.com,1,192.168.100.111:29930-213.136.79.7:51489-UDP
+108.168.66.170,Canada,Toronto,Start Communications,Start Communications,AS40788 Start Communications,dhcp-108-168-66-170.cable.user.start.ca,1,108.168.66.170:6889-192.168.100.111:29930-UDP
+80.117.199.166,Italy,Florence,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,AS3269 Telecom Italia S.p.A.,host-80-117-199-166.pool80117.interbusiness.it,1,192.168.100.111:29930-80.117.199.166:51413-UDP
+122.54.132.146,Philippines,Mandaluyong,Philippine Long Distance Telephone Co.,"ST. Paul College of Davao, Inc.",AS9299 Philippine Long Distance Telephone Company,122.54.132.146.pldt.net,1,122.54.132.146:81-192.168.100.111:12938-TCP
+80.251.233.139,Russia,Moscow,Altagen JSC,Altagen JSC,AS50473 Altagen JSC,No DNS record,1,192.168.100.111:60669-80.251.233.139:81-TCP
+5.166.75.104,Russia,Barnaul,"CJSC ""ER-Telecom Holding"" Barnaul branch","JSC ""ER-Telecom Holding"" Barnaul Branch","AS50512 JSC ""ER-Telecom Holding""",5x166x75x104.dynamic.barnaul.ertelecom.ru,1,192.168.100.111:29930-5.166.75.104:49001-UDP
+176.227.47.239,Türkiye,Istanbul,Turkcell Internet,,AS16135 TURKCELL ILETISIM HIZMETLERI A.S.,No DNS record,1,176.227.47.239:81-192.168.100.111:7258-TCP
+176.31.181.176,France,Roubaix,OVH ISP,OVH,AS16276 OVH SAS,ns3324557.ip-176-31-181.eu,1,176.31.181.176:56969-192.168.100.111:29930-UDP
+121.107.164.123,Japan,Okinawa,DION (KDDI CORPORATION),KDDI,AS2516 KDDI CORPORATION,KD121107164123.ppp-oct.au-hikari.ne.jp,1,121.107.164.123:42388-192.168.100.111:29930-UDP
+150.162.9.136,Brazil,Florianópolis,Universidade Federal de Santa Catarina,Universidade Federal de Santa Catarina,AS263300 Universidade Federal de Santa Catarina,host9-136.setic.ufsc.br,1,150.162.9.136:43347-192.168.100.111:29930-UDP
+168.81.120.29,France,Paris,ANS-B,AECI Information Services (Pty) Ltd,,No DNS record,1,168.81.120.29:81-192.168.100.111:61674-TCP
+79.241.120.254,Germany,Lüdenscheid,Deutsche Telekom AG,Deutsche Telekom AG,AS3320 Deutsche Telekom AG,p4ff178fe.dip0.t-ipconnect.de,1,192.168.100.111:29930-79.241.120.254:6889-UDP
+147.251.48.140,Czechia,Brno,CESNET z.s.p.o.,Masarykova univerzita - Ustav vypocetni techniky,AS2852 CESNET z.s.p.o.,pyrrha.fi.muni.cz,1,147.251.48.140:123-192.168.100.111:34314-UDP
+151.26.62.227,Italy,Barletta,INFOSTRADA,WIND Telecomunicazioni S.p.A,AS1267 WIND TRE S.P.A.,No DNS record,1,151.26.62.227:6881-192.168.100.111:29930-UDP
+121.140.122.215,South Korea,Dongjak-gu,Korea Telecom,Korea Telecom,AS4766 Korea Telecom,No DNS record,1,121.140.122.215:52583-192.168.100.111:29930-UDP
+122.153.26.227,South Korea,Yongsan-dong,LG POWERCOMM,Pubnetplus,AS17858 LG POWERCOMM,No DNS record,1,122.153.26.227:81-192.168.100.111:43140-TCP
+162.90.83.231,United States,New York,Skadden,"Skadden, Arps, Slate, Meagher & Flom LLP",,No DNS record,1,162.90.83.231:81-192.168.100.111:58391-TCP
+144.138.120.67,Australia,Perth,Telstra Corporation (Belong),Telstra Corporation Limited,AS135887 Belong (Telstra Limited),cpe-144-138-120-67.static.belong.com.au,1,144.138.120.67:11528-192.168.100.111:29930-UDP
+85.226.206.127,Sweden,Eskilstuna,Telenor Sverige AB,Bredbandsbolaget,AS2119 Telenor Norge AS,c-85-226-206-127.bbcust.telenor.se,1,192.168.100.111:29930-85.226.206.127:54853-UDP
+118.168.160.94,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,118-168-160-94.dynamic-ip.hinet.net,1,118.168.160.94:14645-192.168.100.111:29930-UDP
+152.24.76.106,United States,Seattle,Amazon.com,"Amazon.com, Inc",,No DNS record,1,152.24.76.106:81-192.168.100.111:24398-TCP
+113.188.110.223,Vietnam,Bình Dương,VNPT,,AS45899 VNPT Corp,static.vnpt.vn,1,113.188.110.223:3800-192.168.100.111:29930-UDP
+152.225.17.39,United States,Washington,Internal Revenue Service,Internal Revenue Service,,No DNS record,1,152.225.17.39:81-192.168.100.111:24836-TCP
+46.166.137.72,The Netherlands,Roosendaal,NFOrce Entertainment BV,NForce Entertainment B.V,AS43350 NForce Entertainment B.V.,No DNS record,1,192.168.100.111:29930-46.166.137.72:62236-UDP
+67.242.238.204,United States,Greenwood Village,Charter Communications Inc,Spectrum,AS11351 Charter Communications Inc,syn-067-242-238-204.res.spectrum.com,1,192.168.100.111:13346-67.242.238.204:81-TCP
+103.196.235.38,Bangladesh,Dhaka,Dhaka Fiber Net Limited,Dhaka Fiber Net Limited,AS55492 Dhaka Fiber Net Limited,No DNS record,1,103.196.235.38:15975-192.168.100.111:29930-UDP
+101.143.189.184,Japan,Ōmiya,OPTAGE Inc.,K-Opticom Corporation,AS17511 OPTAGE Inc.,101-143-189-184f1.osk2.eonet.ne.jp,1,101.143.189.184:51413-192.168.100.111:29930-UDP

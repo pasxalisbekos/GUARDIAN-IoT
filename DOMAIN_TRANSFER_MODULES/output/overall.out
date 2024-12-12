@@ -1,0 +1,101 @@
+Starting
+venv activated
+Folders in directory: ['Benign', 'Dos', 'Mirai', 'DDOS']
+
+Benign:
+  benign_traffic.pcap_Flow.csv
+
+Dos:
+  DoS-TCP_Flood9.pcap_Flow.csv
+  DoS-UDP_Flood14.pcap_Flow.csv
+
+Mirai:
+  Mirai-udpplain11.pcap_Flow.csv
+  Mirai-greeth_flood7.pcap_Flow.csv
+  Mirai-greip_flood16.pcap_Flow.csv
+
+DDOS:
+  DDoS-ICMP_Flood1.pcap_Flow.csv
+  DDoS-ICMP_Fragmentation3.pcap_Flow.csv
+  DDoS-SYN_Flood14.pcap_Flow.csv
+  DDoS-ACK_Fragmentation10.pcap_Flow.csv
+Performing cross-validation for KNN
+Performing cross-validation for Naive Bayes
+Performing cross-validation for Logistic Regression
+Performing cross-validation for Decision Tree
+Performing cross-validation for Random Forest
+Performing cross-validation for Gradient Boosting
+Performing cross-validation for K-Means
+Training with KNN
+Training with Naive Bayes
+Training with Logistic Regression
+Training with Decision Tree
+Training with Random Forest
+Training with Gradient Boosting
+Training with K-Means
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.915765   0.916724  0.915765  0.916027
+1          Naive Bayes  0.414140   0.506809  0.414140  0.418603
+2  Logistic Regression  0.481676   0.465290  0.481676  0.433269
+3        Decision Tree  0.932171   0.932725  0.932171  0.932398
+4        Random Forest  0.938652   0.939050  0.938652  0.938771
+5    Gradient Boosting  0.945165   0.945844  0.945165  0.945252
+6              K-Means  0.279886   0.682691  0.279886  0.338002
+Folders in directory: ['Mirai', 'Benign']
+
+Mirai:
+  mirai_mal_CC_all.pcap_Flow.csv
+  mirai_mal_spread_all.pcap_Flow.csv
+
+Benign:
+  mirai_leg.pcap_Flow.csv
+Folders in directory: ['Mirai', 'Benign']
+
+Mirai:
+  2019-02-28-20-50-15-192.168.1.193.pcap_Flow.csv
+  104.248.160.24-80.pcap_Flow.csv
+  2018-12-21-15-50-14-192.168.1.195.irc.pcap_Flow.csv
+  104.248.160.24.port80TCP.pcap_Flow.csv
+  104.248.160.24.port80UDP.pcap_Flow.csv
+  malware-capture-35-1-port-23.pcap_Flow.csv
+  85.217.225.181.23.pcap_Flow.csv
+
+Benign:
+  2018-10-25-14-06-32-192.168.1.132.pcap_Flow.csv
+  2018-09-14-13-40-25-Philips-Hue-Bridge.pcap_Flow.csv
+  2019-07-03-15-15-47-first_start_somfy_gateway.pcap_Flow.csv
+  2018-09-21-capture.pcap_Flow.csv
+Folders in directory: ['DDOS', 'Benign', 'Dos']
+
+DDOS:
+  BF1_DDoS_AD_6.pcap_Flow.csv
+  SYN-DDoS-AD_9.pcap_Flow.csv
+
+Benign:
+  NormalData10.pcap_Flow.csv
+
+Dos:
+  SYN_DoS_AD_3.pcap_Flow.csv
+  BF1_DoS_AD_5.pcap_Flow.csv
+
+Models Performance on All targets and Attacks:
+                 Model  Accuracy  Precision    Recall        F1
+0                  KNN  0.259271   0.389036  0.259271  0.232888
+1          Naive Bayes  0.318116   0.173171  0.318116  0.219664
+2  Logistic Regression  0.338744   0.447780  0.338744  0.261386
+3        Decision Tree  0.295924   0.330906  0.295924  0.229090
+4        Random Forest  0.217907   0.306325  0.217907  0.181398
+5    Gradient Boosting  0.255002   0.267383  0.255002  0.218457
+6              K-Means  0.202807   0.164426  0.202807  0.144707
+
+Label distribution:
+Benign (label 0): 144,948 samples
+DoS (label 3): 132,149 samples
+Mirai (label 1): 131,189 samples
+DDoS (label 2): 100,000 samples
+
+Percentage distribution:
+Benign (label 0): 28.52%
+DoS (label 3): 26.00%
+Mirai (label 1): 25.81%
+DDoS (label 2): 19.67%

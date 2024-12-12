@@ -1,0 +1,22 @@
+Starting
+venv activated
+Folders in directory: ['Benign', 'Dos', 'Mirai', 'DDOS']
+
+Benign:
+  benign_traffic.pcap_Flow.csv
+
+Dos:
+  DoS-TCP_Flood.pcap_Flow.csv
+  DoS-UDP_Flood13.pcap_Flow.csv
+
+Mirai:
+  Mirai-udpplain11.pcap_Flow.csv
+  Mirai-greeth_flood17.pcap_Flow.csv
+  Mirai-greip_flood3.pcap_Flow.csv
+
+DDOS:
+  DDoS-ICMP_Flood.pcap_Flow.csv
+  DDoS-ICMP_Fragmentation2.pcap_Flow.csv
+  DDoS-SYN_Flood3.pcap_Flow.csv
+  DDoS-ACK_Fragmentation11.pcap_Flow.csv
+Performing cross-validation for KNN

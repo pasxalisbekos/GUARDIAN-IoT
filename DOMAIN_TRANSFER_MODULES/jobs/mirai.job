@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --job-name=mirai.job
+#SBATCH --output=/home/cpitumpeappu/wireless/code/final/output/mirai.out
+#SBATCH --error=/home/cpitumpeappu/wireless/code/final/errors/mirai.err
+#SBATCH --gres=gpu:4
+#SBATCH --mem=0
+
+echo "Starting"
+
+
+# Test Python conda environment
+source /home/cpitumpeappu/wireless/code/cse570/bin/activate
+echo "venv activated"
+python /home/cpitumpeappu/wireless/code/final/code/mirai.py
+
+

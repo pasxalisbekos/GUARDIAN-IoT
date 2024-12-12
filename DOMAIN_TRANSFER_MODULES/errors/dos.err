@@ -1,0 +1,30 @@
+INFO:__main__:Fetching source dataset...
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Dos/DoS-TCP_Flood.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Dos/DoS-TCP_Flood10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Dos/DoS-UDP_Flood13.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Dos/DoS-UDP_Flood6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign/benign_traffic.pcap_Flow.csv
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/SYN_DoS_AD_1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/BF1_DoS_AD_1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/BF1_DoS_AD_4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/SYN_DoS_AD_4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/BF1_DoS_AD_3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/SYN_DoS_AD_3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/SYN_DoS_AD_5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/BF1_DoS_AD_5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/SYN_DoS_AD_2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Dos/BF1_DoS_AD_2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData7.pcap_Flow.csv

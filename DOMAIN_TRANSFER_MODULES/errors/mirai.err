@@ -1,0 +1,221 @@
+INFO:__main__:Fetching source dataset...
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Mirai/mirai_mal_CC_all.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Mirai/mirai_mal_CC_all.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Mirai/mirai_mal_spread_all.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Mirai/mirai_mal_spread_all.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Benign/mirai_leg.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/MedBotIoT_Dataset/CSV_FILES/Benign/mirai_leg.pcap_Flow.csv
+INFO:__main__:Fetching target dataset from /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai and /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-03-08-13-24-30-192.168.1.197.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-03-08-13-24-30-192.168.1.197.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24-23.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24-23.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-50-14-192.168.1.195.irc.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-50-14-192.168.1.195.irc.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-50-14-192.168.1.195.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-50-14-192.168.1.195.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24.port80TCP.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24.port80TCP.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24-80.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24-80.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-02-28-20-50-15-192.168.1.193.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-02-28-20-50-15-192.168.1.193.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-01-10-19-22-51-192.168.1.198.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-01-10-19-22-51-192.168.1.198.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24.port80UDP.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/104.248.160.24.port80UDP.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-01-10-21-06-26-192.168.1.199.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2019-01-10-21-06-26-192.168.1.199.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-33-59-192.168.1.196.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/2018-12-21-15-33-59-192.168.1.196.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/malware-capture-35-1-port-23.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/malware-capture-35-1-port-23.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/85.217.225.181.23.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Mirai/85.217.225.181.23.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-04-16-41-10-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-04-16-41-10-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-10-25-14-06-32-192.168.1.132.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-10-25-14-06-32-192.168.1.132.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-03-16-41-09-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-03-16-41-09-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-06-16-41-17-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-06-16-41-17-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-09-14-13-40-25-Philips-Hue-Bridge.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-09-14-13-40-25-Philips-Hue-Bridge.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-03-15-15-47-first_start_somfy_gateway.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-03-15-15-47-first_start_somfy_gateway.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-05-16-41-14-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-05-16-41-14-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-09-21-capture.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2018-09-21-capture.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-07-16-41-19-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/IoT_23_Dataset/CSV_FILES/Benign/2019-07-07-16-41-19-192.168.1.158.pcap_Flow.csv
+INFO:__main__:Fetching target dataset from /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai and /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain5.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood4.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain10.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood20.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood20.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood21.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood21.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood4.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood15.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood15.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood14.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood14.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain22.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain22.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain2.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain17.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain17.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood3.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain18.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain18.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood26.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood26.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood3.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood13.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood13.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood12.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood12.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood11.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood11.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood10.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood1.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood24.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood24.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood1.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain15.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain15.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain20.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain20.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood17.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood17.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood19.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood19.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood16.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood16.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood18.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood18.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood9.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood6.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood23.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood23.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood9.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood6.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain12.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain12.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain7.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain7.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain8.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood21.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood21.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood20.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood20.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood14.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood14.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood5.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain4.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain24.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain24.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood5.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain11.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain11.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood13.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood13.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood2.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain3.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain23.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain23.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood2.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain16.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain16.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain19.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain19.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain14.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain14.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain21.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain21.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain1.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood10.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood11.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood11.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood25.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood25.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood8.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain13.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain13.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood7.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood7.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain6.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-udpplain9.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood8.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood16.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood16.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood18.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood18.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood17.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greeth_flood17.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood19.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Mirai/Mirai-greip_flood19.pcap_Flow.csv
+INFO:__main__:Processing: /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign/benign_traffic.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign/benign_traffic.pcap_Flow.csv
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Traceback (most recent call last):
+  File "/home/cpitumpeappu/wireless/code/final/code/mirai.py", line 382, in <module>
+    mirai_w_benign,ddos_w_benign,dos_w_benign = get_iot_network_intrusion_datasets()
+  File "/home/cpitumpeappu/wireless/code/final/code/mirai.py", line 348, in get_iot_network_intrusion_datasets
+    iot_network_intrusion_df = pd.read_csv('./IoT-Network Intrusion/IoT Network Intrusion Dataset.csv')
+  File "/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/home/cpitumpeappu/wireless/code/cse570/lib/python3.10/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: './IoT-Network Intrusion/IoT Network Intrusion Dataset.csv'

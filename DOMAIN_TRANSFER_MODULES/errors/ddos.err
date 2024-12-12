@@ -1,0 +1,42 @@
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Flood11.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Flood12.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Fragmentation10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ICMP_Fragmentation.pcap_Flow.csv
+INFO:__main__:Trying alternative engine for /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood11.pcap_Flow.csv
+INFO:__main__:Python engine failed, trying with chunks for /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood11.pcap_Flow.csv
+ERROR:__main__:Failed to read /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood11.pcap_Flow.csv: Error tokenizing data. C error: Expected 84 fields in line 624726, saw 107
+
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-SYN_Flood15.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ACK_Fragmentation2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/DDOS/DDoS-ACK_Fragmentation4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/CIC_IOT_Dataset2023/CSV_FILES/Benign/benign_traffic.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_7.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/SYN-DDoS-AD_3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_7.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/DDOS/BF1_DDoS_AD_8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData4.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData3.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData1.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData9.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData6.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData5.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData10.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData2.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData8.pcap_Flow.csv
+INFO:__main__:Successfully processed /home/cpitumpeappu/wireless/CSV_DATASETS/DoS-DDoS-MQTT-IoT_Dataset/CSV_FILES/Benign/NormalData7.pcap_Flow.csv

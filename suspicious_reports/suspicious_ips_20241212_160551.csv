@@ -1,0 +1,51 @@
+IP Address,Country,City,ISP,Organization,AS Number,DNS Name,Related Flows,Flow IDs
+206.190.153.185,United States,Kansas City,UK-2 Limited,"Hosting Services, Inc.",AS13213 UK-2 Limited,host.trsonlinemediav-185.us,1,192.168.100.111:63665-206.190.153.185:81-TCP
+219.84.91.146,Taiwan,Taipei,Sony Network Taiwan Limited,SONET,AS18182 Sony Network Taiwan Limited,No DNS record,1,192.168.100.111:37314-219.84.91.146:23-TCP
+99.58.240.32,United States,Jacksonville,"AT&T Services, Inc.",AT&T Corp.,"AS7018 AT&T Services, Inc.",No DNS record,1,192.168.100.111:49476-99.58.240.32:23-TCP
+185.96.175.112,Portugal,Lisbon,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,CPRMNET Backbone,AS8657 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,No DNS record,1,185.96.175.112:81-192.168.100.111:23013-TCP
+62.142.187.222,Finland,Helsinki,Elisa Oyj,Elisa Oyj,AS719 Elisa Oyj,No DNS record,1,192.168.100.111:17208-62.142.187.222:23-TCP
+23.34.147.19,United States,San Jose,"Akamai Technologies, Inc.","Akamai Technologies, Inc.","AS16625 Akamai Technologies, Inc.",a23-34-147-19.deploy.static.akamaitechnologies.com,1,192.168.100.111:33732-23.34.147.19:23-TCP
+128.16.127.209,United Kingdom,London,Jisc Services Limited,University College London,AS786 Jisc Services Limited,No DNS record,1,128.16.127.209:23-192.168.100.111:19415-TCP
+122.255.91.253,Taiwan,Taipei,TWNTT,NTT Taiwan Ltd.,"AS2914 NTT America, Inc.",No DNS record,1,122.255.91.253:81-192.168.100.111:16784-TCP
+206.88.97.58,United States,Atlanta,ADP,"Electrical Insulation Suppliers, Inc",,No DNS record,1,192.168.100.111:59497-206.88.97.58:81-TCP
+82.108.93.27,United Kingdom,London,Easynet UK,Surestream Numbered Links,AS3257 GTT Communications Inc.,No DNS record,1,192.168.100.111:24740-82.108.93.27:81-TCP
+138.75.30.158,Singapore,Singapore,M1 LIMITED,M1 LIMITED,AS4773 MobileOne Ltd. Mobile/Internet Service Provider Singapore,No DNS record,1,138.75.30.158:81-192.168.100.111:10634-TCP
+120.217.93.95,China,Zhengzhou,China Mobile communications corporation,China Mobile,"AS24445 Henan Mobile Communications Co.,Ltd",No DNS record,1,120.217.93.95:81-192.168.100.111:17664-TCP
+181.50.227.4,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,AS10620 Telmex Colombia S.A.,dynamic-ip-1815002274.cable.net.co,1,181.50.227.4:81-192.168.100.111:30559-TCP
+168.59.225.222,United States,Austin,General Services Commission,Texas Department of Information Resources,AS1761 General Services Commission,No DNS record,1,168.59.225.222:23-192.168.100.111:23838-TCP
+103.145.188.86,China,Weifang,HY-IDC,"Shandong Huayun Interconnection Information Technology Co., Ltd.",,No DNS record,1,103.145.188.86:81-192.168.100.111:15824-TCP
+124.247.199.255,India,Hyderabad,Vodafone Idea Ltd.,Vodafone Idea Ltd.,AS55410 Vodafone Idea Ltd,No DNS record,1,124.247.199.255:23-192.168.100.111:64609-TCP
+181.116.179.126,Argentina,Ciudad Autonoma De Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A,AMX Argentina SA,AS11664 Techtel LMDS Comunicaciones Interactivas S.A.,host126.181-116-179.telmex.net.ar,1,181.116.179.126:81-192.168.100.111:6286-TCP
+86.29.252.107,United Kingdom,Bracknell,Virgin Media Limited,Vmcbbuk,AS5089 Virgin Media Limited,cpc157773-rdng31-2-0-cust106.15-3.cable.virginm.net,1,192.168.100.111:49084-86.29.252.107:23-TCP
+50.20.87.208,United Kingdom,London,Microsoft Limited,Microsoft Limited,,No DNS record,1,192.168.100.111:18513-50.20.87.208:81-TCP
+185.40.47.4,Denmark,Viby J,Itm8 A/S,Itm8 A S,AS62319 Itm8 A/S,No DNS record,1,185.40.47.4:81-192.168.100.111:41942-TCP
+130.84.185.81,France,Orsay,CIRCE,,AS1303 Renater,No DNS record,1,130.84.185.81:23-192.168.100.111:3322-TCP
+95.64.250.133,Russia,Moscow,MTS PJSC,Static,AS8359 MTS PJSC,No DNS record,1,192.168.100.111:61641-95.64.250.133:23-TCP
+202.152.131.194,Indonesia,Yogyakarta,PT Jembatan Citra Nusantara,,AS23951 PT JEMBATAN CITRA NUSANTARA,202-152-131-194.citra.net.id,1,192.168.100.111:25190-202.152.131.194:23-TCP
+203.174.78.151,Japan,Minato-ku,NHN Techorus Corp.,NHN Techorus Corp,"AS17707 AS for DATAHOTEL, which is one of iDC in Japan,",203-174-78-151.data-hotel.net,1,192.168.100.111:38509-203.174.78.151:23-TCP
+120.193.254.140,China,Guangzhou,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd.",No DNS record,1,120.193.254.140:81-192.168.100.111:64578-TCP
+36.17.76.169,China,Lipu,Chinanet,,AS4134 CHINANET-BACKBONE,No DNS record,1,192.168.100.111:39090-36.17.76.169:81-TCP
+67.111.151.9,United States,New York,Verizon Business,Verizon Business,AS2828 Verizon Business,67.111.151.9.ptr.us.xo.net,1,192.168.100.111:9346-67.111.151.9:23-TCP
+65.196.96.2,United States,Greenbelt,Verizon Communications,"GLOBAL SCIENCE & TECHNOLOGY, INC",AS701 Verizon Business,No DNS record,1,192.168.100.111:10253-65.196.96.2:81-TCP
+122.104.13.152,Australia,Melbourne,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,n122-104-13-152.sun4.vic.optusnet.com.au,1,122.104.13.152:23-192.168.100.111:55920-TCP
+138.18.120.92,United States,Whitehall,DoD Network Information Center,DoD Network Information Center,AS749 DoD Network Information Center,No DNS record,1,138.18.120.92:23-192.168.100.111:65041-TCP
+128.57.182.248,United States,Menlo Park,SRI International,SRI International,,No DNS record,1,128.57.182.248:81-192.168.100.111:23786-TCP
+39.4.47.37,South Korea,Seongnam-si,Korea Telecom,Kornet,AS4766 Korea Telecom,No DNS record,1,192.168.100.111:31630-39.4.47.37:23-TCP
+2.30.219.147,United Kingdom,Worthing,EE Limited,,AS12576 EE Limited,No DNS record,1,192.168.100.111:34922-2.30.219.147:81-TCP
+165.10.138.62,South Africa,Pretoria,SAPOSNET,Saposnet3,,No DNS record,1,165.10.138.62:81-192.168.100.111:40-TCP
+78.84.51.35,Latvia,Daugavpils,LATTELEKOM,,AS12578 SIA Tet,No DNS record,1,192.168.100.111:12546-78.84.51.35:81-TCP
+144.187.103.119,United Kingdom,London,Motorola Mobility LLC,Motorola Mobility LLC,,No DNS record,1,144.187.103.119:23-192.168.100.111:47868-TCP
+174.251.240.20,United States,Laurel,Verizon Business,Verizon Business,AS6167 Verizon Business,20.sub-174-251-240.myvzw.com,1,174.251.240.20:81-192.168.100.111:23294-TCP
+45.123.45.70,China,Chaowai,SKBJNET,"Beijing Sankuai Technology Co., Ltd.",,No DNS record,1,192.168.100.111:29456-45.123.45.70:81-TCP
+164.202.48.110,United States,Columbus,DoD Network Information Center,DoD Network Information Center,AS749 DoD Network Information Center,No DNS record,1,164.202.48.110:81-192.168.100.111:26208-TCP
+68.146.209.59,Canada,Calgary,Shaw Communications Inc.,Shaw Communications Inc.,AS6327 Shaw Communications Inc.,S01063c2d9e90193a.cg.shawcable.net,1,192.168.100.111:32399-68.146.209.59:23-TCP
+88.12.203.165,Spain,Madrid,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),AS3352 TELEFONICA DE ESPANA S.A.U.,165.red-88-12-203.dynamicip.rima-tde.net,1,192.168.100.111:46220-88.12.203.165:81-TCP
+51.7.131.194,United Kingdom,London,British Telecommunications PLC,PlusNet plc,AS6871 Plusnet,194.131.7.51.dyn.plus.net,1,192.168.100.111:42784-51.7.131.194:23-TCP
+179.155.20.79,Brazil,Niterói,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,AS28573 Claro NXT Telecomunicacoes Ltda,b39b144f.virtua.com.br,1,179.155.20.79:81-192.168.100.111:65430-TCP
+152.140.116.2,United States,Chicago,McDonald's Corporation,McDonald's Corporation,,No DNS record,1,152.140.116.2:23-192.168.100.111:4030-TCP
+191.232.17.203,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilse),AS8075 Microsoft Corporation,No DNS record,1,191.232.17.203:81-192.168.100.111:39821-TCP
+94.252.121.167,Luxembourg,Luxembourg,Proximus Luxembourg S.A.,Tango Broadband Dynamic,AS56665 Proximus Luxembourg S.A.,adsl.94-252-121-167.dyn.cust.tango.lu,1,192.168.100.111:60898-94.252.121.167:23-TCP
+194.31.19.2,Germany,Haltern am See,Gemeinsame Kommunale Datenzentrale Recklinghausen Zweckverband,GKD Recklinghausen,AS212587 Gemeinsame Kommunale Datenzentrale Recklinghausen Zweckverband,ip2.gkd-re.de,1,192.168.100.111:53805-194.31.19.2:23-TCP
+8.170.85.95,China,Beijing,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,,No DNS record,1,192.168.100.111:31636-8.170.85.95:81-TCP
+145.10.68.213,The Netherlands,The Hague,SSC-ICT Haaglanden,BART Internet Services BV,AS48037 SSC-ICT Haaglanden,No DNS record,1,145.10.68.213:81-192.168.100.111:23793-TCP
+20.214.221.206,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),AS8075 Microsoft Corporation,No DNS record,1,192.168.100.111:41886-20.214.221.206:81-TCP
