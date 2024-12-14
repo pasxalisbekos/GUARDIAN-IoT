@@ -1,4 +1,9 @@
 # CSE 570 Project - Modeling an IDS for Diverse IoT Ecosystems
+
+## Authors
+- Paschalis Bekos (pbekos@cs.stonybrook.edu)
+- Abisheka Pitumpe (cpitumpeappu@cs.stonybrook.edu)
+
 ## Components
 
 ### 1. Domain Transfer Training Module
